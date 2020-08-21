@@ -1,0 +1,38 @@
+El mensaje original es: 1010101
+El mensaje codificado es: 10100101111
+
+
+El mensaje original es: xD
+El mensaje codificado en Morse es: -..- -.. 
+
+
+//////////////////////// CODIFICACION MORSE ////////////////////////////////
+El mensaje original es: SEXI
+El mensaje codificado en Morse es: ... . -..- .. 
+
+
+//////////////////////// CODIFICACION HAMMING ////////////////////////////////
+El mensaje original es: 0
+El mensaje codificado es: 000
+
+
+//////////////////////// CODIFICACION HAMMING ////////////////////////////////
+El mensaje original es: 01
+El mensaje codificado es: 000111
+
+
+//////////////////////// CODIFICACION MORSE ////////////////////////////////
+El mensaje original es: Hola
+El mensaje codificado en Morse es: .... --- .-.. .- 
+
+
+//////////////////////// CODIFICACION HAMMING ////////////////////////////////
+El mensaje original es: 1001010
+El mensaje codificado es: 10011010001
+
+
+//////////////////////// CODIFICACION MORSE ////////////////////////////////
+El mensaje original es: JOSE MARTIN
+El mensaje codificado en Morse es: .--- --- ... .  -- .- .-. - .. -. 
+
+
